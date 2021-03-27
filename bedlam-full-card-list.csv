@@ -1,0 +1,415 @@
+CardColor,CardText,Card-Details-For-White-Cards,Core,Expansion-Update1,Expansion-MSFT-SP1,Expansion-MSFT-SP2
+Black,_________ is not a wise security boundary.,,Yes,,,
+Black,_________ is not in keeping with our values as a company.,,Yes,,,
+Black,_________ just earned me a five-hour meeting with HR and Legal.,,Yes,,,
+Black,_________? That’s a billion dollar business idea right there.,,Yes,,,
+Black,Anyone else having problems with _________ today or is it just me?,,Yes,,,
+Black,Can you repeat the question? I was daydreaming about _________.,,Yes,,,
+Black,Everyone loved the new HR director until they took away _________.,,Yes,,,
+Black,"Getting that last release out the door took a lot of blood, sweat and _________.",,Yes,,,
+Black,"Hey kids, study computer science and one day you too can aspire to work on _________.",,Yes,,,
+Black,Hi! I’m Clippy. It looks like you’re working on _________. Do you want help with that?,,Yes,,,
+Black,"I can’t talk about _________, it’s ATTORNEY-CLIENT PRIVILEGED.",,Yes,,,
+Black,I finally experienced _________ and now I understand.,,Yes,,,
+Black,I find that I am increasingly disappointed by _________.,,Yes,,,
+Black,"I really hate that guy who is always_________, but I do it too.",,Yes,,,
+Black,I told the new hire that working on ________ was a “growth opportunity”.,,Yes,,,
+Black,"I'm sorry, but we don't allow _________ in this organization.",,Yes,,,
+Black,"In a meeting today, we spent two hours arguing about _________.",,Yes,,,
+Black,"In this year's riveting Ethics & Compliance training, the best example of bad behavior by an employee is _________.",,Yes,,,
+Black,"My last checkin was rejected, but it wasn't my fault - I blame _________.",,Yes,,,
+Black,My last job involved a little more _________ than I was expecting.,,Yes,,,
+Black,"My manager and I were not getting along, until we discovered our shared interest in _________.",,Yes,,,
+Black,"Our competition has developed a more performant, user-friendly version of _________.",,Yes,,,
+Black,"Our latest release introduces the world to ""_________ as a Service"".",,Yes,,,
+Black,Our new machine learning strategy is as follows: Step 1: Collect Data Step 2: _________ Step 3: Profit!,,Yes,,,
+Black,Our workstream's key deliverable is to figure out the strategic value prop for _________.,,Yes,,,
+Black,Remember that one time we thought _________ was a good idea?,,Yes,,,
+Black,The bug was resolved Won't Fix due to _________.,,Yes,,,
+Black,The end result of our growth mindset was _________.,,Yes,,,
+Black,This new scorecard tracks the team's progress in _________ on a monthly basis.,,Yes,,,
+Black,True culture change starts with _________.,,Yes,,,
+Black,"We didn't notice all the tests were failing for weeks, because we were distracted by _________.",,Yes,,,
+Black,What's the most soul-sucking part about your job?,,Yes,,,
+Black,What's the stupidest fucking idea you've ever heard?,,Yes,,,
+Black,Why can't a room full of engineers get _________ to work?,,Yes,,,
+Black,You know what this company really needs more of? _________.,,Yes,,,
+White,"A ""CLM"", or ""Career Limiting Move""",The sky's the limit.,Yes,,,
+White,"A bad case of ""Not Invented Here"" Syndrome",Because everyone thinks they're smarter than everyone else.,Yes,,,
+White,A brain fart,Luckily these don't smell… much.,Yes,,,
+White,A code review that feels more like a bro review,"Be (wait for it, wait for it) wary.",Yes,,,
+White,A floppy disk,"Or as the kids call it, a 3D-printed save icon.",Yes,,,
+White,A friendly debate about the Oxford comma,"You can have my Oxford comma when you pry it from my cold, dead, and lifeless hands.",Yes,,,
+White,A gassy coworker,When is it appropriate to ask a coworker if their gut flora is healthy?,Yes,,,
+White,A gloriously written EULA,"See, for example, the Bedlam EULA.",Yes,,,
+White,A pants-free work environment,"Like casual Fridays, only casual-er.",Yes,,,
+White,A private facepalm,For when doing it in public would be a Career Limiting Move (CLM).,Yes,,,
+White,A smiley BSOD,It makes that whole IRQL_NOT_LESS_EQUAL suddenly less annoying to see that friendly smile.,Yes,,,
+White,A somewhat obscene TLA,"If anyone comments about initialisms vs acronyms when this card is played, they lose a point.",Yes,,,
+White,A virus (the flesh-eating kind),"What's worse - Melissa, ILoveYou or Ebola?",Yes,,,
+White,"Aborting, retrying, then ultimately failing","Good things come in threes, like this card, the three-fingered salute, and getting it right on v3.",Yes,,,
+White,Actually being the target user,Where having a target painted on you is a GOOD thing.,Yes,,,
+White,Actually getting a useful answer from helpdesk,"What's the secret code I can give to IT, so they know that I have a clue?",Yes,,,
+White,Actually reading status mails,"Print them all out, they make for a handy dandy toilet paper.",Yes,,,
+White,Actually reading the license terms,Because who does that?,Yes,,,
+White,An awkward HR intervention,"The non-awkward kinds are just fine, really.",Yes,,,
+White,April Fools,"Gmail was announced on April 1st, 2004 and many thought it was a joke at first.",Yes,,,
+White,Asking how you got on this mail and can someone please remove you,You can't win 'em reply all.,Yes,,,
+White,Being a douche,"'A shower', in French. Don't be a shower.",Yes,,,
+White,Being a fast follower,"After another company is first to market with a new product or feature, quickly following up with your own.",Yes,,,
+White,Being a no-op,The operation was not a success.,Yes,,,
+White,"Being the first one to start a ""reply all"" storm",If you haven't yet experienced these storms… just wait. Your turn will come.,Yes,,,
+White,Being the one AV geek in every meeting,"In high school, those skills were remarkedly less desirable.",Yes,,,
+White,Blaming millennials,Millenials are killing the 'blame millenials' industry.,Yes,,,
+White,Blaming the user,"If you don't win the round, it's because you're holding this card wrong.",Yes,,,
+White,Breaking the build,I broke the build and the build won.,Yes,,,
+White,Change for change's sake,public const int change = 1;,Yes,,,
+White,Checking in a buggy piece of shit for someone else to deal with,"You've NEVER done that, right?",Yes,,,
+White,Checking in a risky fix and then going on vacation the next day,"Sometimes known as ""Wooding the tree"".",Yes,,,
+White,Clipping your toenails in the open-space work area,"Do you suppose that's how ""Clippy"" got named?",Yes,,,
+White,"Complaining about stuff, only to find out that there's already a Bedlam card for it",Happened like six times so far. Is this the seventh?,Yes,,,
+White,Completely changing a UI right after most people have finally gotten used to the last one,"Change is good, unless it's great. Except for the times that it sucks.",Yes,,,
+White,Creating a viral video to market your product,Often ends up being more of an eyeroll video.,Yes,,,
+White,Curse words underlined with little red squigglies,An incredible innovation in spellcheck.,Yes,,,
+White,Debugging a hung process when you're hungover,It's like double-hung windows.,Yes,,,
+White,Declaring post-vacation email bankruptcy,"Just delete it all - if it's important, they'll send you another email.",Yes,,,
+White,Demonstrating superior leadership skills by delegating,Like a boss.,Yes,,,
+White,Designing by committee,Everyone has opinions. What's something else that everyone has?,Yes,,,
+White,Drinking at work,"Pop, of course. What did you think I meant?",Yes,,,
+White,Easter eggs,"For example, playing Doom in Excel 95.",Yes,,,
+White,Endless debates about open space,Or whatever they are calling it these days.,Yes,,,
+White,Endless pull requests,Git along with the program.,Yes,,,
+White,"Engineering politely thanking Legal, HR, Marketing or BizDev for their input","Thanks for the ""Feedback"".",Yes,,,
+White,Escalating on the guy that always escalates everything,"If doing this is wrong, I don't want to be right.",Yes,,,
+White,Fabricating data to make the point,There's a high correlation between drowning deaths and ice cream sales.,Yes,,,
+White,Fallout from the acquisition,"Hey, at least it's not radioactive.",Yes,,,
+White,Forking the thread by replying to an earlier message,"Conversation view has existed for a long time, people.",Yes,,,
+White,Formatting a document in Comic Sans,Little-known fact: Comic Sans was created for Microsoft Bob.,Yes,,,
+White,Getting shit done that nobody will ever notice,"It's still worth it in the end, right?",Yes,,,
+White,"Going wherever your phone tells you to, every day",This is how the AI revolution begins - it has a hidden agenda of its own.,Yes,,,
+White,Happy clipart professionals,"After a great day at work, it's awesome to head home to your smiling clipart family too!",Yes,,,
+White,Having a growth mindset,"I've got the growthiest of growth mindsets, what about you?",Yes,,,
+White,Having the courage to remove a feature ,Liquid courage.,Yes,,,
+White,Having to talk to actual human beings,You know it's a bad day when…,Yes,,,
+White,Headhunting emails from recruiters,Competition for talent in this industry is fierce.,Yes,,,
+White,Hitting refresh,An important step on the path to having a truly digital transformation.,Yes,,,
+White,Holding in a fart during an exec review,Gastrointestinal distress is better than the alternative.,Yes,,,
+White,Improving performance by making the icon spin faster,People don't remember software - they remember how software makes them *feel*.,Yes,,,
+White,Inexplicably high marketing budgets,With such great ROI.,Yes,,,
+White,"Lies, damned lies, and telemetry",All three kinds.,Yes,,,
+White,Listening to someone chew over a conference call,And those heavy breathers.,Yes,,,
+White,Lowering expectations,It helps avoid disappointment.,Yes,,,
+White,Managing up,"I've managed up, now manage up yours.",Yes,,,
+White,Meetings where the first ten minutes are spent getting the projector to work,We put a man on the moon once… but fixing this is beyond the industry's capabilities.,Yes,,,
+White,My dignity,It's kind of sad that you felt the need to look down here to understand this one.,Yes,,,
+White,My poorly planned non-redundant service,Turns out redundancy wasn't redundant.,Yes,,,
+White,Nocturnal checkins,Sometimes they happen while devs are sleeping.,Yes,,,
+White,Not being technical,"""PXE boot""? That's that new punk girl band, right?",Yes,,,
+White,Not getting it right until version three,Works like a charm.,Yes,,,
+White,Obscene amounts of money,Like Scrooge-McDuck-Swimming-In-His-Gold Obscene.,Yes,,,
+White,"Our friends, the NSA",Just kidding. Screw them.,Yes,,,
+White,Passionate email debates about reverse Polish notation,A way of doing coding stuff that's really boring unless you're into coding stuff.,Yes,,,
+White,Pixellated icons,Not at all inspired by anything else that's pixellated.,Yes,,,
+White,"Pouring blood, sweat and tears into a feature that will never actually see the light of day",I ain't afraid to cut a feature.,Yes,,,
+White,"Powerpoint animations so glorious, they bring one to tears",Usually because of boredom.,Yes,,,
+White,"Powerpoint slides full of lies, damn lies, and statistics",Mainly the first two kinds.,Yes,,,
+White,Pranking the jerk that everyone on the team hates,We all know someone like this at work.,Yes,,,
+White,Rebooting and hoping for the best,¯\_(?)_/¯ ,Yes,,,
+White,Refactoring code to add a new abstraction layer,Engineers love adding abstraction layers to code.,Yes,,,
+White,Refactoring code to remove an abstraction layer,Engineers love removing abstraction layers from code.,Yes,,,
+White,"Resolving a bug No Repro and commenting ""works on my machine""",This bugs a lot of people.,Yes,,,
+White,Rickrolling a coworker,"Don't you love hearing it play, knowing what must have just happened?",Yes,,,
+White,Rock solid code that needs no testing,Or testers.,Yes,,,
+White,Sausagefests,Most engineering teams.,Yes,,,
+White,"Saying ""coming in hot"" instead of ""late and crappy""",To avoid getting into hot water.,Yes,,,
+White,"Saying ""forking"" without snickering",Get your mind out of the gutter.,Yes,,,
+White,Self-righteous email signatures reminding you that printing kills trees,Not the binary kind of trees.,Yes,,,
+White,Selling your soul by letting your IT department manage your phone,Just make sure to get a good price for it.,Yes,,,
+White,Sending the entire company your well-researched thoughts on gender issues,Because the world needs to hear what you have to say.,Yes,,,
+White,Sharing or Liking if you agree,"If it were more than one click, it'd be too much effort.",Yes,,,
+White,Shenanigans,See the Shenanigans functional spec for more details.,Yes,,,
+White,Shouting out the number of curse words counted at the end of the meeting,Haven't you ever worked with someone who swore so much that an accounting was necessary?,Yes,,,
+White,Sleeping with one of your directs,This brings new meaning to the phrase “sleeping on the job”.,Yes,,,
+White,Stalls without toilet paper,Combined with the dude who goes in without shoes…,Yes,,,
+White,Starting to take a dump right when the fire alarm goes off,Do I seriously need to explain this one?,Yes,,,
+White,Straining a wrist from handwaving on the details ,"At least, that's why I think it happened.",Yes,,,
+White,Strategery,Stra - TEE - ger - ee,Yes,,,
+White,Strategically placing a stick of deodorant on a fragrant coworker's chair,Sometimes people are… pungent… and you don't want to say it to their face.,Yes,,,
+White,Subtle nosepicking in boring meetings,"It's not that you're not saying something interesting, it's just that I've got a honker of a bogey here.",Yes,,,
+White,Sucking up to executives,I totally agree with what you just said.,Yes,,,
+White,Surviving longer than the last person who had your job,Not an easy task.,Yes,,,
+White,Testing in production,It's the very best kind of testing!,Yes,,,
+White,That guy that makes you wish for a company dress code,Ditch the sweatpants already.,Yes,,,
+White,That one dev who always goes to the bathroom barefoot,He must be an athlete by the look of his feet.,Yes,,,
+White,That one dev who's all talk and no check-in,"I'm totally checking you out right now… that is, checking out your github profile.",Yes,,,
+White,That one female dev,Get ready to have your mind blown: women code.,Yes,,,
+White,That one useless dev,Don't let them near the code.,Yes,,,
+White,That one useless PM,Don't let them near the code.,Yes,,,
+White,That one useless tester,Don't let them near the code.,Yes,,,
+White,The detached loneliness of being a remote worker,Or being the only one who doesn't work out of corporate headquarters.,Yes,,,
+White,The euphoric rush of hitting 'send' on a status mail that no one will ever read,The important thing is that the act of putting it together helped me ensure everything's on track.,Yes,,,
+White,The feature that keeps getting handed around because the owner ends up quitting,Some features are just too painful to deliver.,Yes,,,
+White,The Internet of Things,"Without this, the internet has nothing.",Yes,,,
+White,The latest fashion in hoodies,Engineering style.,Yes,,,
+White,The most glorious scorecard that puts all other scorecards to shame,"Yo dawg, I heard you liked scorecards, so I scorecarded your scorecard…",Yes,,,
+White,The mythical man month,Lots of leaders like to have babies in one month by adding 8 women to the project.,Yes,,,
+White,The smell of death emanating from the office kitchen's microwave,Usually involves some kind of fish.,Yes,,,
+White,This crappy card game,I blame the user.,Yes,,,
+White,Three forks of the same damned code that do the same damned thing,Editor's note: I was tempted to have three copies of this card in the game.,Yes,,,
+White,Tipping sacred cows,It happens when you get to the tipping point.,Yes,,,
+White,Turning it off and then on again,I wanted to be snarky here… except it actually works.,Yes,,,
+White,Using the phrase 'shareholder value' sarcastically,Don't forget the airquotes.,Yes,,,
+White,Working with curmudgeons,"cur*mudg*eon: somebody considered to be bad-tempered, disagreeable, or stubborn. ",Yes,,,
+Black,"After 25 years in the tech industry, I’ve got a lot of stories to tell. The title of my memoirs? _________.",,,Yes,,
+Black,College graduates these days have no respect for _________.,,,Yes,,
+Black,How am I compensating for being incompetent?,,,Yes,,
+Black,I just got hired! So I guess you could say that I'm in the _________ business.,,,Yes,,
+Black,I wish __________ was considered an inclusive behavior.,,,Yes,,
+Black,Looking for a job in tech? Want to stand out from the crowd? My advice is: do a LOT more _________.,,,Yes,,
+Black,Management fired the last person who got caught with _________.,,,Yes,,
+Black,My corporate credit card was suspended due to a suspicious charge. What should I blame it on?,,,Yes,,
+Black,"My new startup is like Uber, but for _________.",,,Yes,,
+Black,The marketing team just blew their entire annual budget to create a single TV ad about _________.,,,Yes,,
+Black,"What on earth is that smell? Ahh yes, it's the pungent odor of _________.",,,Yes,,
+Black,"Working in tech is all fun and games until one day, you realize you've spent your entire career working on _________.",,,Yes,,
+Black,"Yes, this company has some big problems. But as your new CEO, I assure you our investment in _________ is going to solve that.",,,Yes,,
+White,"""Working"" from home",Make sure to do the airquote gesture when you read this card out loud.,,Yes,,
+White,A daily stand-up meeting that lasts an hour,"This is another one of those ""It's funny because it's true"" cards.",,Yes,,
+White,A Friday 4pm meeting,Everyone's favorite kind of meeting.,,Yes,,
+White,A futile effort to write maintainable code,"This is another one of those ""It's funny because it's true"" cards.",,Yes,,
+White,Actually getting fired for something that nobody gets fired for,Think different.,,Yes,,
+White,Actually putting customers first,"Because every company *says* they're already doing this, but…",,Yes,,
+White,An offensive translation in a UI string,"Hopefully you caught it before release, right? This is a good time to take a break from the game to swap stories.",,Yes,,
+White,An unfortunate typo in the stategy memo,Where are those red squiggly underlines when you need them?,,Yes,,
+White,"Being customer obsessed, but in a creepy way","Thanks to advances in data collection technology, we now know a lot more about our customers… a LOT more.",,Yes,,
+White,"Being the loudest person to shout ""containers""",…in a room full of people shouting about containers.,,Yes,,
+White,Changing requirements,Just for fun!,,Yes,,
+White,Collecting pointless metrics,"Of the 126 white cards in Bedlam Core, 65 are nouns and 61 are gerunds.",,Yes,,
+White,Crappy children's artwork on your coworker's wall,The only people who don't have this are people who don't have kids.,,Yes,,
+White,Fixing a P0 bug in someone else's spaghetti code,"It makes your knees weak, palms sweaty.",,Yes,,
+White,GDPR,That's it. That's the card.,,Yes,,
+White,Getting credit for something you just copied from Stack Overflow,Which just shows that you have good paste.,,Yes,,
+White,"Having a growth mindset, but the growth is malignant","I don't know what stage it is, but it's definitely not the honeymoon stage.",,Yes,,
+White,Having no idea what you're supposed to be doing,//TODO: write bottom text for this card,,Yes,,
+White,"Putting the ""oops"" in Ops",…what did you just do?,,Yes,,
+White,"Quibbling on where the decimal point goes in ""four 9s""",Reasonable people may disagree.,,Yes,,
+White,Reinventing a perfectly good wheel,Sometimes working in tech is hell on wheels.,,Yes,,
+White,Rolling your own because you're smarter than everyone else on GitHub,What could possibly go wrong?,,Yes,,
+White,Root causing a bug to PEBKAC,Problem Exists Between Keyboard And Container,,Yes,,
+White,Talking about Blockchain,Just don't.,,Yes,,
+White,Uncomfortably texting with your VP,With extra emojis - vice presidents love emojis.,,Yes,,
+White,"Writing once, maintaining forever",Isn't the real world fun?,,Yes,,
+Black,"After retiring, SteveB went on to spend his leisure time _________.",,,,Yes,
+Black,"Although Microsoft is facing the toughest competition ever seen in its history, at least we can all rely on _________ to save the day.",,,,Yes,
+Black,Behold the new company Leadership Principles: 1) Create Clarity 2) Generate Energy 3) _________,,,,Yes,
+Black,Heads up! _________ is coming.,,,,Yes,
+Black,I took the job at Microsoft because I knew I’d be _________.,,,,Yes,
+Black,"If it wasn't for _________, both Building 7 and Windows 9 would be with us today.",,,,Yes,
+Black,"In Satya's first few weeks as CEO, his most impactful change was putting a stop to _________.",,,,Yes,
+Black,"In this year’s thrilling update to the Standards of Business Conduct, the focus is on stopping _________.",,,,Yes,
+Black,My favorite part about working at Microsoft? _________.,,,,Yes,
+Black,Satya has called on all of us to reinvent _________.,,,,Yes,
+Black,The Design Studio has decreed that _________ is the new black.,,,,Yes,
+Black,The new re-org tries to optimize for _________.,,,,Yes,
+Black,This might sting a little. But _________ will make things better.,,,,Yes,
+Black,Today's build break was caused by _________.,,,,Yes,
+Black,"We could all use a little more _________ in today's mobile-first, cloud-first world.",,,,Yes,
+Black,What should I blame last year's bad review on?,,,,Yes,
+Black,What’s the best way to survive an exec review?,,,,Yes,
+Black,You know what I miss the most about Windows Phone?,,,,Yes,
+White,A 30 minute shuttle ride to a building 5 minutes away,You meet such lovely people while traveling.,,,Yes,
+White,A badge that still works,#badgestillworks,,,Yes,
+White,A monitor stand made out of printer paper,"It's better for your posture to have it up higher, and the printer paper is conveniently right down the hall.",,,Yes,
+White,A racist chatbot,"Someone else's, that is - certainly not *ours*!",,,Yes,
+White,"A sweaty, naked exec in the Pro Club locker room","Some execs are known to be quite comfortable standing around 'starkers', as they say.",,,Yes,
+White,"A threesome – with dev, test *and* PM",Menage a triad.,,,Yes,
+White,Accidentally emailing someone because you put them on the cc line just to look them up in the address book,…and forgot to take them off before sending.,,,Yes,
+White,Accidentally replying all to a company-wide email,"All the more amusing if your title includes the word ""distinguished"".",,,Yes,
+White,Accidentally turning off SafeSearch on your work machine,SafeSearch is the Bing feature that prevents… certain kinds of content from showing up.,,,Yes,
+White,Accidentally walking into the wrong gender restroom because some building layouts are mirrored,"If you get caught, urinalotta trouble.",,,Yes,
+White,Actually liking the taste of Talking Rain,What's your favorite color of canned water?,,,Yes,
+White,An executive mandate to use Yammer,Us email die-hards will resist to the very last one of us!,,,Yes,
+White,An internal DL full of nothing but funny videos of cats,"More than one of these DLs exist, but you won't find them from the display name.",,,Yes,
+White,An ultra informative Yammer post with more than 50 hashtags,"Hashtags put the fun in hash functions, especially when you're coding in C hashtag.",,,Yes,
+White,"An uncontrollable urge to chant ""TELEMETRY!""",Give in to the urge.,,,Yes,
+White,BCC’ing a huge DL and promptly going to hell,We don't like rule breakers around here.,,,Yes,
+White,Being a bae intern,The best kind of intern.,,,Yes,
+White,Being a busy PM with a lot of important things to do,"PMs do REAL WORK, you know.",,,Yes,
+White,Being added to a team in Microsoft Teams,What an honor!,,,Yes,
+White,Being the team that shows up in the Standards of Business Conduct videos,"Just in case it's not clear, this is NOT a good thing.",,,Yes,
+White,Being too busy sorting through the email reminders about MSPoll to actually complete MSPoll,"Mails from your entire management chain, pleading for you to fill out the poll.",,,Yes,
+White,BILLIONS of dollars in cash,Hold your pinky up to the corner of your mouth when you say it.,,,Yes,
+White,"Blaming ""scheduling issues""",Everyone knows this is just an excuse.,,,Yes,
+White,"Building a great company culture, one poster at a time","All in all, it’s just another poster on the wall.",,,Yes,
+White,Code written by MSR,When your goal is a research paper and not a usable product…,,,Yes,
+White,Comparing the planning memo to what we actually shipped and crying one tiny little tear,And drinking one tiny little drink.,,,Yes,
+White,"Complaining about DLs on yammer, and yammer on DLs",People used to email hate forums. People used to forums hate email. ,,,Yes,
+White,Cortana,One of the times we actually got the name of something right.,,,Yes,
+White,Dismal attendance at the mandatory all-hands,Because who doesn't want to see your Ben Stein-like group manager read the words off the slides?,,,Yes,
+White,Dogfood that reminds you of actual food for dogs,Sometimes the quality of the code earns the name.,,,Yes,
+White,Eliminating an entire discipline,What we lose in profit we'll make up in volume!,,,Yes,
+White,Emailing the wrong Ashish Gupta because there are 7 in the GAL,"AKA the ""Amitabh Srivatsava"" problem and why you'll see ""(TEAM NAME)"" in some people's display names.",,,Yes,
+White,"Executives who forget to take out ""[insert something here]"" in org-wide emails",It almost makes you wonder if they don't write them themselves.,,,Yes,
+White,Finally seeing another woman in the restroom,"In buildings with mostly engineering disciplines, this is a rare occasion.",,,Yes,
+White,"Flighting (formerly known as ""testing"")",STE what I mean?,,,Yes,
+White,Friends who only stay in touch because of the employee software discount,So you're saying I'm not the only one this happens to?,,,Yes,
+White,Having a big .DOC,"It's big, it's real, and you like showing it to coworkers.",,,Yes,
+White,Having a legitimate business reason for using InPrivate browsing,"I mean for avoiding single-sign-on when you need to authenticate as another account, of course.",,,Yes,
+White,Having to scan my badge just to get my damned print job,"I'm an important person, I don't have the kind of seconds it requires.",,,Yes,
+White,Hella noms and lots of dranks,And the best beats.,,,Yes,
+White,Hiring go-go-dancers for an event,Because we hire only the best.,,,Yes,
+White,Hot Pockets in the kitchen vending machines,"So cold on the outside, so burning the tongue on the inside. Hahhhhht Pockets!",,,Yes,
+White,Inventing and then killing off a new dev framework,It's funny because it's true.,,,Yes,
+White,Karma,It's not really about asking…,,,Yes,
+White,Knowing your numbers,"Take heart: the worse they are, the more likely you qualify for the 20/20 program.",,,Yes,
+White,Laughing at overworked Amazon employees while responding to email at 10pm,Admit it. You've done it.,,,Yes,
+White,Long e-mail chains of successively higher execs congratulating the team without clearly knowing why,"Great job team!!! Like, totes!!! (that's how execs talk, right?)",,,Yes,
+White,"Long, shitty product names","Like ""The Messaging and Security Feature Pack for Windows Mobile 5.0""!",,,Yes,
+White,"Long, shitty product names for business","See also: Long, shitty product names",,,Yes,
+White,Office moves,"If you don't average at least one per year, something must be wrong.",,,Yes,
+White,Our crappy marketing,"Oops, how did that adjective slip in there?",,,Yes,
+White,"People who preface every adjective with ""SUPER""",Because it's SUPER culturally relevant!,,,Yes,
+White,"Putting a bowl of ""Legal in Washington state"" brownies outside your office",Who's got two thumbs and loves Washington State?,,,Yes,
+White,Questionably legitimate mammograms in the Commons,"No, this didn't actually happen. Made you look down here though, didn't I?",,,Yes,
+White,Red banging every mail,Your lack of poor planning does not constitute an emergency for me. Except when it does.,,,Yes,
+White,"Referring to ""Millenium F"" by its acronym",That's a building I'd like to have an office in.,,,Yes,
+White,"Remembering to say “Bing” instead of ""Google""",Because that's the search engine everyone here uses.,,,Yes,
+White,Responding to a multi-question email with “No”,Asking someone multiple questions and their response only answers one of them.,,,Yes,
+White,"Saying ""One Microsoft"" without smirking",Sometimes (*very* rarely)… we don't work perfectly across two teams.,,,Yes,
+White,Saying HELL YES to getting lit on a Monday night,Because that's how we recruit the top talent!,,,Yes,
+White,Sending a mail marked low importance - in order to get people to read it,Take it from a pro: it works.,,,Yes,
+White,Surfing the GAL for funny names ,There are some awesome ones out there. Sorry for those of you who have them.,,,Yes,
+White,Taking an job at Amazon in order to get a promotion when you come back to Microsoft,"So common, they should put it in the official CSP definitions.",,,Yes,
+White,Taking UX design tips from MSExpense,Just the tips.,,,Yes,
+White,"Telling partner teams whatever they want to hear, and then promptly forgetting about it",This card is fictitious. Any resemblance to real-world situations is purely coincidental.,,,Yes,
+White,"That guy who asks the exec ""How do I do better in stack ranking?"" at an all-hands",There's always that one guy.,,,Yes,
+White,"The 17th cheery, verbose email from IT about downtime for a service no one uses","The only time it's OK to ask ""How did I get on this DL"" is when IT puts you on it without asking you.",,,Yes,
+White,The app gap,"*Not* a place where you buy stylish, generic clothes.",,,Yes,
+White,The daily build that takes 26 hours to produce,True story.,,,Yes,
+White,The dark art of writing a spec that doesn't actually say anything substantive,So that nobody knows you didn't actually do any work.,,,Yes,
+White,"The fifth sad, plaintive email from your project manager, begging you to update your bugs",Tracking the work for complicated software projects is a PITA.,,,Yes,
+White,The fourth open carton of milk in the fridge,There's no sense crying over chilled milk.,,,Yes,
+White,The guy with seven monitors on his desk,"Do you suppose he looked up at his six monitors and said ""This just isn't good enough, I deserve better""?",,,Yes,
+White,The Ninjacat,"Our unofficial mascot, circa 2015.",,,Yes,
+White,The snowpocalypse,See also: snowmageddon.,,,Yes,
+White,The Substrate,"An up-and-coming term for some exciting stuff that's totally going to reinvent the way things work, again!",,,Yes,
+White,This week's re-org,Sometimes there's more than one so it's hard to disambiguate.,,,Yes,
+White,Two Onedrives,Pro *and* amateur.,,,Yes,
+White,Universal Windows Apps,"UWAs, straight outta Redmond.",,,Yes,
+White,Using Sharepoint,"In playtests of the Alpha of this game, this was one of the favorite cards. Wonder why?",,,Yes,
+White,Waterfall development masquerading as agile,"We were so agile in how quickly we stopped using the word ""Waterfall"".",,,Yes,
+White,Wearing socks and sandals,Seattle-ites are well known for this fetching fashion combination.,,,Yes,
+White,Windows 8,Windows Reimagined. Also Reinvented.,,,Yes,
+White,Windows Vista,Hardly missed-ya,,,Yes,
+White,Wondering if the sweet release of death will come before the shuttle ever shows up,The shuttles between buildings in Redmond are not always the speediest route across campus.,,,Yes,
+White,"Working on ""special projects""","Usually code for ""Leaving the company but we don't want to say that yet.""",,,Yes,
+White,Writing off a multi-billion-dollar acquisition,Look it up.,,,Yes,
+White,Xbox One,"Or pronounce it as ""X-BONE"" if you're feeling punchy.",,,Yes,
+White,Yet another new internal Sharepoint site that will die a lonesome death in three months,Stop. Collaborate and Listen. And then stop visiting the site.,,,Yes,
+Black,_________ is SUPER exciting!!,,,,,Yes
+Black,_________ is the new Vista.,,,,,Yes
+Black,A new hire's first week here is usually spent on _________.,,,,,Yes
+Black,"All right, team. We're ready to kick off our tented project - codename: _________.",,,,,Yes
+Black,"Back when SteveB was in charge, we never had to deal with _________!",,,,,Yes
+Black,"I couldn’t work on _________, because the Exchange server was down.",,,,,Yes
+Black,"I laughed.  I cried.  I went to the Microsoft Theater Troupe's production of ""_________,"" the musical.",,,,,Yes
+Black,I’m on mail retention because I was involved in _________.,,,,,Yes
+Black,"If I ever leave Microsoft, the thing I'll miss the most is _________.",,,,,Yes
+Black,I'm proud to say that I work with someone who is the world's foremost expert on ______. ,,,,,Yes
+Black,In my last review I was told I needed to do more _________.,,,,,Yes
+Black,It's best to wait until the review model is locked before spending time on _________.,,,,,Yes
+Black,"Main Campus, born and raised, _________ is how I spend most of my days.",,,,,Yes
+Black,Microsoft put a computer in every home and on every desk but all I got out of it was _________.,,,,,Yes
+Black,That epic ship party just wouldn't have been the same without _________.,,,,,Yes
+Black,The latest acquisition we're paying billions for has innovative technology to handle _________.,,,,,Yes
+Black,What never fails to liven up the ship party?,,,,,Yes
+Black,What's the only thing worse than running out of alcohol at a ship party?,,,,,Yes
+White,"""Good"" attrition",When an underperformer leaves.,,,,Yes
+White,A 15 year old badge photo,"Fighting for the right to pretend you still looked like you do on your first badge photo, when you were a baby.",,,,Yes
+White,A computer on every desk and in every home,Nailed it. Too bad about missing out on those pockets… we'll get there in v3.,,,,Yes
+White,A female engineering executive,Also known as 'a unicorn'.,,,,Yes
+White,A furtive midnight raid of the admin’s closet for free company swag,Free swag is second only in popularity to free pop.,,,,Yes
+White,"A QR code on the board in the kitchen, leading to a colleague's uninspired Windows Phone app",Corkboard in the kitchens in Redmond are full of people self-promoting their apps. ,,,,Yes
+White,A RIF,Reduction In Force - aka layoff.,,,,Yes
+White,"A sad, crumbling tower built out of patent cubes",Too bad they don't give out patent cubs. More bears around the halls would be fun.,,,,Yes
+White,A ship-it award for a product you didn't work on,You feel a little guilty… but you still put it on your tombstone anyway.,,,,Yes
+White,A slide full of Market-ecture,It's just as pretty as when engineers try to explain how to do marketing.,,,,Yes
+White,A sudden painful realization that one has neither passion nor potential,"""Your Potential. Our Passion"" - from 2006 to 2011 ",,,,Yes
+White,A tented project,"""Secret"" - aka you have to be ""in the tent"" to know the secret.",,,,Yes
+White,An *actually* insightful article on MSW,"No offense, MSW peeps. But sometimes there is the occasional puff piece.",,,,Yes
+White,An ambiguous gender GAL photo,It's useful to use the right pronoun.,,,,Yes
+White,An exec parking his Ferrari in a handicapped spot,One of his *twelve* ferraris.,,,,Yes
+White,Bailing Apple out… only to regret that years later,"150 million dollars in 1997... look it up, whippersnapper.",,,,Yes
+White,BCCing huge aliases with shameless plugs for a personal project,Particularly during hackathon times.,,,,Yes
+White,BEDLAM DL3,"The very first ""reply all"" storm that took down all the Exchange servers in the 90s.",,,,Yes
+White,Being a softie,In more ways than one.,,,,Yes
+White,Being OOF,"Technically, ""Out Of Facilities"". Also, ""OOO"" doesn't exactly roll off the tongue.",,,,Yes
+White,Burning every bridge possible with your good-bye mail,"Water can still flow under a bridge that’s burned, right?",,,,Yes
+White,"Buying Minecraft just to own the trademark for ""Creeper""","Jeepers, creepers, how about them 2.5 billion dolla-dolla bills y'all?",,,,Yes
+White,Calling our customers dinosaurs,An ad campaign we ran for Office in 2005.,,,,Yes
+White,Design studio hipsters,Lots of black turtlenecks and hornrimmed glasses.,,,,Yes
+White,"Developers, developers, developers!",SteveB's infamous chant.,,,,Yes
+White,Engaging in pointless debates on litebulb,'litebulb' is an internal DL full of people engaging in pointless debates. Join the fray!,,,,Yes
+White,Execs in drag,Certain execs were well known for dressing up at ship parties to entertain the troops.,,,,Yes
+White,Exposing too much skin at the ship party,HR would like me to clarify that this NEVER actually happened. So… consider that clarified.,,,,Yes
+White,"Falling asleep on the 9,000th word of a SteveSi blog","Sinofsky was well known for his verbosity and his internal blog where he would write, and write, and write.",,,,Yes
+White,Feeling guilty about not contributing to the giving campaign,Every October there's a lot of pleading.,,,,Yes
+White,Forcing functions,They're a force to reckon with.,,,,Yes
+White,Free soda,Or free pop.,,,,Yes
+White,"Free towels, drenched in the ass sweat of commuting cyclists","Said towels were once cut as part of cost-cutting, resulting in outcry from employees who never used them.",,,,Yes
+White,Getting dumped by your work spouse,Not the kernel kind of dump.,,,,Yes
+White,Getting through a release cycle without killing any coworkers,What ship-it awards are really all about.,,,,Yes
+White,Hijacking an exec's 888,"""Triple eights"" are special shuttles execs can reserve - almost as fun as having your own 777.",,,,Yes
+White,Hot tubs at the ship party,Occasionally related to the other card about exposing too much skin at ship parties.,,,,Yes
+White,Intentionally getting deposed to get the extra email storage from being on retention,"Remember when our mailbox quotas were measured in MB, not GB?",,,,Yes
+White,Layoff meeting selfies,The ultimate in turning lemons into lemonade. Although the lemonade doesn't really taste that sweet.,,,,Yes
+White,Metro ^H^H^H^H^H,^H is the ASCII escape character for backspace.,,,,Yes
+White,Microkia,It's like chocolate and peanut butter.,,,,Yes
+White,Microsoft Bob,A 1995 release intended to provide a more user-friendly interface to Windows. It also birthed Comic Sans.,,,,Yes
+White,Microspeak,"A term for the lingo around the company, the funny way we phrase things.",,,,Yes
+White,Missing the salad bar sneeze guard,"Eurest wasn't able to hire human guards for this job, so they went with sheets of clear plastic instead.",,,,Yes
+White,My very own window office,Giving you an unobstructed view of the beautiful gray block known as the Seattle sky.,,,,Yes
+White,Office assistant Rocky the dog dragging its butt across your monitor,"The most infamous Office Assistant being, of course, Clippy. Also, look up bug #Office9.199995.",,,,Yes
+White,Paying billions for everyone's second-favorite social network,Another way to think of it is seven and a half Minecrafts.,,,,Yes
+White,Peaking at 64,"It's generally considered acceptable to 'max out' in your career at level 64, but not earlier.",,,,Yes
+White,People who send meeting requests for their OOFs,And clutter up everyone else's calendars on their phones.,,,,Yes
+White,"Postponing bitlocker for five years, one day at a time","You can't MAKE me encrypt it, MSIT!",,,,Yes
+White,"Practicing saying ""There is no stack rank anymore"" in front of a mirror",Say it three times in order to burn it in.,,,,Yes
+White,Praying to the video conference call gods ,The gods are angry sometimes.,,,,Yes
+White,Putting .NET in every product name,"See also: One, Azure, Direct, Windows, 365…",,,,Yes
+White,Putting razor blades in the admin's candy dish,"Do I really need to explain this one? It never happens. It's a JOKE, people.",,,,Yes
+White,Quitting the company to spend more time with your family ^H^H^H^H^H^H pro sports team,"At least it's better than working on ""special projects""",,,,Yes
+White,Red ring of death,An infamous quality problem that happened with Xbox 360 that cost us a lot o' moolah.,,,,Yes
+White,Reinventing productivity,Or is it 'reimagining'?,,,,Yes
+White,"Righteous indignation at having to pay for healthcare, like poor people",Our awesome insurance used to let us live like Kings. Now we've been downgraded!,,,,Yes
+White,s+,"Shorthand for ""Schedule Plus"", a separate calendaring product that later became part of Outlook.",,,,Yes
+White,Sending a meeting request to a large DL,And releasing the rage of a thousand employees.,,,,Yes
+White,Sending the new hires to the swimming pool at Building 7,"There is no Building 7 due to a totally normal set of circumstances, but legend has sprung up over the years.",,,,Yes
+White,Slamming your skip-level in the annual company poll,"Your skip is your grandmanager, aka your manager's manager.",,,,Yes
+White,Stack ranking,"Also known as 'calibration', the process of evaluating people for performance reviews.",,,,Yes
+White,"Starting every sentence with ""So…""","So, people actually do this, it turns out.",,,,Yes
+White,Subsisting purely on food scammed from leftover catering,"For big meetings in Redmond, the catered food will sometimes be left outside the room. Tasty, tempting food.",,,,Yes
+White,teaching steveb to capitalize,he was infamous for not using much punctuation or capitalization in his personal emails,,,,Yes
+White,That one guy who actually grew up in the Seattle area,Nobody's actually *from* around here.,,,,Yes
+White,That one guy who keeps scheduling all-day meetings,Usually a sign that he doesn't have much else to do.,,,,Yes
+White,That one VP who always wears shorts regardless of the weather,Because what we all need to see is more hair.,,,,Yes
+White,That tester who interviews for every job available just to get out,"Everyone knows the correct answer to ""What's your dream job?"" is ""this one!""",,,,Yes
+White,The damned start button,Does this need any explanation?,,,,Yes
+White,The Longhorn reset,"One of the many things that went wrong, leading up to Windows Vista.",,,,Yes
+White,The Microsoft Art Committee,The people who choose the artwork that shows up around campus buildings in the Puget Sound area.,,,,Yes
+White,The realization that all of the Information we put At Your Fingertips is actually porn,"Bill's Comdex speech in 1990, laying out his vision for personal computing for the next decade.",,,,Yes
+White,The Ribbon,The once-controversial change in Office's UI starting with Office 2007.,,,,Yes
+White,Time to reorg!,"It's been a few months since the last one, why not?",,,,Yes
+White,TO THE CLOUD!!!,Tagline from an ad campaign we ran in 2010.,,,,Yes
+White,Trolling people on internal DLs,When you just can't resist making someone angry…,,,,Yes
+White,Trust-fucking-worthy Computing,Gotta love corporate terminology.,,,,Yes
+White,Underwater stock options,I made $43 selling mine!,,,,Yes
+White,Using morale budget for overtime dinners,"During deathmarches to RTM, dinners were sometimes served to encourage people to stay late.",,,,Yes
+White,Waiting until the review model is locked,Because it's open season on being a no-op again once that happens.,,,,Yes
+White,Watching a VP blow-dry his executive man-junk in the Pro Club locker room,"In the Pro Club in Redmond, men will often be seen using hair dryers to… hasten the drying process.",,,,Yes
+White,Wearing the sticker of shame,"When you forget your badge, and Reception prints out a sticker with your name and GAL photo on it.",,,,Yes
+White,Welcoming our new Combined Engineering overlords,CE what I did there?,,,,Yes
+White,Windows Mobile,Yet another product we were ahead of the game on and then lost our lead.,,,,Yes
+White,Winning Buzzword Bingo at the company meeting,True story: I lost in '98 because 'Stain on dress' was in the middle of my card.,,,,Yes
+White,Working at Contoso,"""Contoso"" is one of the names of the fake companies we use in demos.",,,,Yes
+White,Yet another deathmarch,Sometimes the RTM plane doesn't come in for a very smooth landing.,,,,Yes
