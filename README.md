@@ -1,7 +1,8 @@
 # Bedlam
 Bedlam the Card Game
  
-###What the ?&!@ is Bedlam?
+*What the ?&!@ is Bedlam?*
+
 Bedlam is a comparison card game (in the style of Cards Against Humanity and Apples to Apples) created for people who work in or around tech.
 
 You can buy box sets of the core game and any of the three (as of March 2021) expansion packs at http://www.bedlamgame.com/, or you can download the cards for free. Or you can create something on top of Bedlam by cloning this repo - the world is your oyster.
